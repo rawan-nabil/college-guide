@@ -1,0 +1,60 @@
+
+.head2
+{
+    background-color: royalblue;
+    width: 80em;
+    border: 0.2em solid darkred;
+    box-shadow: 0px 0px 50px ed;
+    padding: 0.5em;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+    border-radius: 25%;
+}
+
+.body
+{
+    background-color: royalblue ;
+    width: 20em;
+    border:black solid 2px;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+    justify-content:end;
+}
+
+.img
+{
+    width: 40em; 
+    height: 40em; 
+    border: solid darkred;
+    display: inline;
+}
+
+.img-margin
+{
+    width: 40em; 
+    height: 40em; 
+    border: solid darkred;
+    display: inline;
+}
+
+.words
+{
+    display: inline;
+    margin-left: 2em;
+}
+
+.words2
+{
+    display: inline;
+    margin-right: 2em;
+}
+
+.footer
+{
+    background-color: royalblue; 
+    color: darkred;
+    height: 1.6em;
+    font-size: 1.2em;
+}

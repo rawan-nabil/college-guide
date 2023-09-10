@@ -1,0 +1,8 @@
+.body
+{
+    background-color: royalblue;
+    width: 26em;
+    border:black solid 2px;
+    justify-content:center;
+    margin-left: 26em;
+}

@@ -1,0 +1,26 @@
+
+.body
+{
+    background-color: royalblue;
+    width: 20em;
+    border:black solid 2px;
+    justify-content:center;
+    margin-left: 30em;
+}
+
+.table-form
+{
+    background-color: royalblue;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 5em;
+    color: black;
+}
+
+
+.table-form td
+{
+    border-style: solid;
+}
